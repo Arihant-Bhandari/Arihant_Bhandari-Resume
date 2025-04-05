@@ -1,6 +1,6 @@
 # Arihant Bhandari's Resume
 
-Welcome to my resume repository! This repository contains the LaTeX source code for my professional resume. It is crafted for developers, machine learning enthusiasts, and recruiters interested in my technical background and accomplishments.
+Welcome to my resume repository! This repository contains my professional resume. It is crafted for developers, machine learning enthusiasts, and recruiters interested in my technical background and accomplishments.
 
 ## 👨‍💻 About Me
 
@@ -9,17 +9,16 @@ I am a driven Computer Science undergraduate at **VIT Bhopal University**, passi
 ## 🧠 Technologies & Skills
 
 - **Programming Languages**: Java, Python, C++, C  
-- **Concepts**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Artificial Intelligence, Cloud Computing  
-- **Tools & Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, LaTeX, Git  
+- **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch  
 - **Languages**: English, Hindi  
 
 ## 🚀 Resume Highlights
 
-- 📈 Developed **speech sentiment analysis** and **credit risk prediction** models achieving 90%+ accuracy using deep learning and ensemble methods.
-- 🧠 Built machine learning pipelines on large datasets (1.5M+ records) using advanced preprocessing and feature engineering techniques.
-- 🏆 Contributed to **GirlScript Summer of Code 2024**, ranking in the **top 0.12% (24/20,000)**.
-- 📚 Member of **GDSC VIT Bhopal ML Core Team**, organizing ML/DL workshops for 2000+ students.
-- 🎓 Consistently ranked in the **top 5%** academically with a **CGPA of 9.21/10**.
+- 📈 Developed **speech sentiment analysis** and **credit risk prediction** models achieving 90%+ accuracy using deep learning and ensemble methods.  
+- 🧠 Built machine learning pipelines on large datasets (1.5M+ records) using advanced preprocessing and feature engineering techniques.  
+- 🏆 Contributed to **GirlScript Summer of Code 2024**, ranking in the **top 0.12% (24/20,000)** and finished at 82nd rank.  
+- 📚 Member of **GDGC VIT Bhopal** as **ML Lead**, organizing ML/DL workshops for 5000+ students.  
+- 🎓 Consistently ranked in the **top 1%** academically with a **CGPA of 9.21**.
 
 ## 📄 Projects
 
